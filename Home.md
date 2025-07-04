@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ورشة شغف الصناعية</title>
+
     <meta name="description" content="ورشة شغف الصناعية تقدم أفضل الأثاث والألعاب الترفيهية المصممة بعناية.">
     <meta name="keywords" content="شغف الصناعية, أثاث, ألعاب ترفيهية, منتجات خشبية, صناعة يدوية, تجهيزات منازل, ورشة">
     <link rel="stylesheet" href="style.css"> <!-- إذا كنت تستخدم ملف CSS خارجي -->
